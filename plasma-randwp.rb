@@ -3,7 +3,7 @@
 # FYI this is a VERY hacky/untested script not intended for distribution   #
 ############################################################################
 # usage: plasma-randwp <path_to_dir_with_image_files>
-#   where <path_to_dir_with_image_files> defaults to ~/Pictures
+#   where <path_to_dir_with_image_files> defaults to ~/Wallpapers
 # executes a command that runs some javascript to set the wallpaper used by
 # KDE plasma to a random image file (jpg|png) found in given path.
 # Sets same wallpaper for each virtual desktop, should be easy to change
